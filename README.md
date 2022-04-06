@@ -1,7 +1,8 @@
-- 👋 Hi, I’m James Laurie
+ 👋 Hi, I’m James Laurie
 - 👀 I’m interested in a career in Data Analysis
 - 🌱 I’m currently learning SQL, Python, Excel and Tableau 💞️ 
-- 📫 How to reach me ...
+
+📫 How to reach me ...
 
 <!---
 Jimmy90s/Jimmy90s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
