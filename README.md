@@ -7,7 +7,7 @@
 -  ✴ Excel 
 -  ✴ Tableau 
 
-📫 Reach me at https://www.linkedin.com/in/jameslaurieca/
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jameslaurieca/)
 
 <!---
 Jimmy90s/Jimmy90s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
