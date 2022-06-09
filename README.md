@@ -1,6 +1,7 @@
  # :sunny: 👋
  Hi, I’m James Laurie and I’m interested in a career in Data Analysis 💻
  
+ 🥇 Trained in:
 -  SQL
 -  Python
 -  Excel 
