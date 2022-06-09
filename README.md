@@ -1,6 +1,6 @@
- 👋 Hi, I’m James Laurie
-- 👀 I’m interested in a career in Data Analysis
-- 🌱 I’m currently learning SQL, Python, Excel and Tableau 💞️ 
+ Hi, I’m James Laurie and a
+-  I’m interested in a career in Data Analysis
+-  I’m currently learning SQL, Python, Excel and Tableau  
 
 📫 Reach me at https://www.linkedin.com/in/jameslaurieca/
 
