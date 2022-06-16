@@ -1,7 +1,8 @@
  # :sunny:  👋
- Hi, I’m James Laurie and I’m interested in a career in Data Analysis / Data Science 💻
+ Hi, I’m James Laurie and I’m interested in starting a career in Data Analysis / Data Science 💻
  
- 🥇 Trained in:
+  
+ :sunnny: Constantly learning and 🥇 Trained in:
 -  ✴ SQL 
 -  ✴ Python 
 -  ✴ Excel 
