@@ -9,7 +9,11 @@ Alwaying learning something new and while fun at it.
 -  ✴ Excel 
 -  ✴ Tableau 
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jameslaurieca/)
+📫 Reach me on 
+
+[LinkedIn](https://www.linkedin.com/in/jameslaurieca/)
+
+[Tableau Public](https://public.tableau.com/app/profile/james3436)
 
 <!---
 Jimmy90s/Jimmy90s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
