@@ -5,6 +5,7 @@ Alwaying learning something new and while fun at it.
 
 🥇 Trained in:
 -  ✴ SQL 
+-  ✴ Java
 -  ✴ Python 
 -  ✴ Excel 
 -  ✴ Tableau 
