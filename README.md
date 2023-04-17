@@ -1,11 +1,8 @@
  # :sunny:  👋
- Hi, I’m James Laurie and am in Software Development / Data Analysis / Data Science 💻
- 
-Graduated from WGU Bachelor of Science, Computer Science in 2023
- 
- 
- 
-Alwaying learning something new 
+I’m James Laurie and am in Software Development / Data Analysis / Data Science 💻
+Quick learner with the ability to solve problems and work well with a team.
+Graduated from WGU Bachelor of Science, Computer Science in 2023.
+Always learning something new.
 
 🥇 Trained in:
 -  ✴ SQL 
