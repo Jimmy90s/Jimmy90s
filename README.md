@@ -1,5 +1,5 @@
  # :sunny:  👋
- Hi, I’m James Laurie and am interested in starting a career in Software Development / Data Analysis / Data Science 💻
+ Hi, I’m James Laurie and am in Software Development / Data Analysis / Data Science 💻
  
 Graduated from WGU Bachelor of Science, Computer Science in 2023
  
