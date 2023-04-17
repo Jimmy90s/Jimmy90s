@@ -1,11 +1,11 @@
  # :sunny:  👋
  Hi, I’m James Laurie and am interested in starting a career in Software Development / Data Analysis / Data Science 💻
  
- Currently enrolled at WGU Bachelor of Science, Computer Science
+Graduated from WGU Bachelor of Science, Computer Science in 2023
  
- Expected to Graduate 2024
  
-Alwaying learning something new and while fun at it.
+ 
+Alwaying learning something new 
 
 🥇 Trained in:
 -  ✴ SQL 
