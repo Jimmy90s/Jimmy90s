@@ -1,17 +1,7 @@
- # :sunny:  👋
-I’m James Laurie and am in Software Development / Data Analysis / Data Science 💻
-Quick learner with the ability to solve problems and work well with a team.
-Graduated from WGU Bachelor of Science, Computer Science in 2023.
-Always learning something new.
-
-🥇 Trained in:
--  ✴ SQL 
--  ✴ Java
--  ✴ Python 
--  ✴ Excel 
--  ✴ Tableau 
-
-📫 Reach me on 
+ # :sunny:  
+I’m James Laurie and i'm into Software Development / Data Analysis / Data Science 💻
+Graduated from Western Governors University, Bachelor of Science - BS, Computer Science in 2023.
+I specialize in developing web applications using Ruby on Rails, Bootstrap, React, Nextjs, TailwindCSS and AWS with GraphQL, S3 buckets, DynamoDB and IAM permissions. I have extensive experience in developing scalable web applications that are both user-friendly and visually appealing. At Amazon, I’ve had the opportunity to work on a number of exciting projects, including developing a Ruby on Rails website that leverages the power of AWS to deliver fast, reliable performance. If you’re interested in learning more about my work or would like to connect, please don’t hesitate to reach out!
 
 [LinkedIn](https://www.linkedin.com/in/jameslaurieca/)
 
