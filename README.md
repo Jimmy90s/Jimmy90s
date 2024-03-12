@@ -1,8 +1,31 @@
- # :sunny:  
-I’m James Laurie and i'm into Software Development / Data Analysis / Data Science 💻
-Graduated from Western Governors University, Bachelor of Science - BS, Computer Science in 2023.
+Software Developer
 
-I have extensive experience in developing scalable web applications that are both user-friendly and visually appealing. At Amazon, I’ve had the opportunity to work on a number of exciting projects, including developing a Ruby on Rails website that leverages the power of AWS to deliver fast, reliable performance. If you’re interested in learning more about my work or would like to connect, please don’t hesitate to reach out!
+👋 Hello! I’m Jane, a passionate machine learning engineer based in Adelanto, California. My journey began with a fascination for numbers and a love for unraveling complex financial patterns.
+### About Me
+
+I thrive on turning raw data into actionable insights. Whether it’s predicting stock prices, optimizing trading strategies, or building credit risk models, I’m driven by the intersection of finance and machine learning.
+
+### Skills
+
+- Quantitative Analysis: Proficient in statistical modeling, time series analysis, and econometrics.
+- Machine Learning Algorithms: From linear regression to deep learning, I’ve explored a wide range of ML techniques.
+- Amazon SageMaker: Leveraging SageMaker for model training, deployment, and hyperparameter tuning.
+- MLflow: Tracking experiments, managing model versions, and enabling reproducibility.
+- MLOps Practices: Building end-to-end pipelines for seamless model deployment and monitoring.
+
+### Projects
+
+- California Real Estate Pricing: Built a regression model which aims to answer the question: "what is the expected price of a house in the California area?"
+- Stock Price Prediction: Developed an LSTM-based model to forecast stock prices using historical data and technical indicators.
+- Portfolio Optimization: Implemented Efficient Frontier optimization for efficient asset allocation.
+
+### Education
+
+    Bachelor's in Computer Science, Western Governors University
+
+Connect with Me
+
+Let’s discuss data, algorithms, or the latest market trends! You can find me on LinkedIn or drop me an email at jimmy90s@outlook.com
 
 [LinkedIn](https://www.linkedin.com/in/jameslaurieca/)
 
