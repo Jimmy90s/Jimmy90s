@@ -1,6 +1,6 @@
-Software Developer
+## Software Developer
 
-👋 Hello! I’m Jane, a passionate machine learning engineer based in Adelanto, California. My journey began with a fascination for numbers and a love for unraveling complex financial patterns.
+👋 Hello! I’m James, a passionate machine learning engineer. My journey began with a fascination for numbers and a love for unraveling complex financial patterns.
 ### About Me
 
 I thrive on turning raw data into actionable insights. Whether it’s predicting stock prices, optimizing trading strategies, or building credit risk models, I’m driven by the intersection of finance and machine learning.
